@@ -20,4 +20,6 @@ Typescript - Tricks and Snippets
 
 [Airbnb Javascript StyleGuide](https://github.com/airbnb/javascript)
 
+[Testing Redux Applications with Jest & TypeScript](https://egghead.io/lessons/jest-intro-to-confidently-testing-redux-applications-with-jest-typescript)
+
 ...
