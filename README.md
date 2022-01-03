@@ -22,4 +22,6 @@ Typescript - Tricks and Snippets
 
 [Testing Redux Applications with Jest & TypeScript](https://egghead.io/lessons/jest-intro-to-confidently-testing-redux-applications-with-jest-typescript)
 
+[The modern Javascript Tutorial](https://javascript.info/)
+
 ...
