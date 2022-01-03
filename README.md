@@ -24,4 +24,6 @@ Typescript - Tricks and Snippets
 
 [The modern Javascript Tutorial](https://javascript.info/)
 
+[Design Patterns for your Apps](https://refactoring.guru/design-patterns/)
+
 ...
