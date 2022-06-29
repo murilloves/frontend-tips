@@ -8,11 +8,17 @@
 - UseDebounce
 - UseWindowResize (with breakpoints)
 
+------
+
 - UseLocalStorage
 - UseCookies
 
+------
+
 - UseQueryParams (?params=something&otherparam=anotherthing)
 - UseFetch (Fetch request on API)
+
+------
 
 - UseSetTimeout
 - UseSetInterval
