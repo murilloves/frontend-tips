@@ -25,5 +25,5 @@
 
 ...
 
-[Awesome Custom React Hooks](https://github.com/rehooks/awesome-react-hooks)
-[Rooks / Essential hooks to improve your performance](https://react-hooks.org/docs/)
+- [Awesome Custom React Hooks](https://github.com/rehooks/awesome-react-hooks)
+- [Rooks / Essential hooks to improve your performance](https://react-hooks.org/docs/)
