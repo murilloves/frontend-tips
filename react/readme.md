@@ -1,9 +1,11 @@
-# Create components for:
+# React files and helpers
+
+## Components:
 
 - For loop
 - If/Else
 
-# Create Hooks for:
+## Hooks:
 
 - UseDebounce
 - UseWindowResize (with breakpoints)
