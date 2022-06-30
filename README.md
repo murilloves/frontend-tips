@@ -5,8 +5,8 @@
 ## HTML
 
 Resources:
-- HTML Advanced Guide: https://github.com/murilloves/frontend-tips/blob/main/html/readme.md
-- [HTML Boilerplate](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
+- HTML5 Advanced Guide: https://github.com/murilloves/frontend-tips/blob/main/html/readme.md
+- Basic HTML Boilerplate: https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/
 
 
 ## CSS
