@@ -14,6 +14,12 @@
 
 ### Cool tricks
 
+- Responsive image loading (HTML only):
+
+https://codesandbox.io/s/responsive-image-loading-html-only-yose05
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+
 - Native data Binding (no JS): [\<output>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/output),
 [Codesandbox Sample](https://codesandbox.io/s/agitated-lumiere-g401zk?file=/index.html)
 - Slot (Web Component element): [\<slot>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot)
