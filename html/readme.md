@@ -38,7 +38,7 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Res
 - [\<input + datalist> instead of \<select>](https://github.com/murilloves/Trip-Planner/blob/master/src/components/atoms/selectbox/index.jsx)
 - [Activate Dropdown selector by Button](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_js_dropdown_filter)
 - [Option Group \<optgroup>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup)
-
+- Template tag: [\<template>](https://pt.stackoverflow.com/questions/21718/como-funciona-o-elemento-template-do-html5)
 
 ### Embed HTML file / webpage / youtube video
 
